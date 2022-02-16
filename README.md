@@ -1,0 +1,3 @@
+# ALX Pre Course
+
+This is the repository for the ALX Pre course task.
